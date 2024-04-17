@@ -1,3 +1,12 @@
+<div style="padding-bottom: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo.png" style="max-height: 100%; height: 200px; margin-bottom: 20px">
+    <img alt="sutrallm" src="logo.png" height="200px">
+  </picture>
+</div>
+
+# Background
+
 We are individuals greatly interested in the concepts and philosophies encapsulated within Buddhist Sutras. In Buddhism, the concept of karma, which refers to the moral valence of actions and their consequences, suggests that actions have repercussions not only immediately but also in future lifetimes. Importantly, the outcomes of good and bad deeds do not cancel each other out, meaning that each has its own consequences. Even the Buddha was not exempt from the effects of his own karma before achieving enlightenment. This concept of karma is considered by many as a compelling expression of cosmic fairness.
 
 The objective of this project is to utilize large language model (LLM) technology to create a neutral master on Buddhist Sutras that can run on consumer hardware. Technology will evolve rapidly, and future advancements will undoubtedly facilitate better explanations, more detailed elaboration, improved accuracy, and greater consistency. Nevertheless, regardless of whether the master is human or machine and no matter how advanced the technology becomes, the necessity for critical thinking to interpret the teachings remains non-negotiable.
